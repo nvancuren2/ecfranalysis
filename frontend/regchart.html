@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>React Pie Chart</title>
+    <!-- Load React and ReactDOM from CDN -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <!-- Babel for in-browser JSX transformation -->
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.min.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        text-align: center;
+        background-color: #c7d1da; /* Light gray background */
+      }
+      h1 {
+        margin-bottom: 20px;
+        font-size: 24px;
+        font-weight: bold;
+        color: #1f2937;
+      }
+      svg {
+        display: block;
+        margin: 20px auto;
+        /* Responsive sizing: adjust width relative to viewport */
+        width: 80vw;
+        height: 80vw;
+        max-width: 600px;
+        max-height: 600px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+      const { useState, useEffect } = React;
+
+      function PieChart() {
+        const [data, setData] = useState([]);
+
+        useEffect(() => {
+          fetch('regulations.json')
+            .then(response => response.json())
+            .then(json => {
+              // Assuming your JSON has an "agencies" property as shown:
+              setData(json.agencies);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+        }, []);
+
+        // Calculate total count to determine each slice's angle.
+        const total = data.reduce(
+          (acc, agency) => acc + agency.regulation_count,
+          0
+        );
+
+        // Helper function to create an arc path for a given slice.
+        function describeArc(cx, cy, r, startAngle, endAngle) {
+          const x1 = cx + r * Math.cos(startAngle);
+          const y1 = cy + r * Math.sin(startAngle);
+          const x2 = cx + r * Math.cos(endAngle);
+          const y2 = cy + r * Math.sin(endAngle);
+          const largeArcFlag = endAngle - startAngle > Math.PI ? 1 : 0;
+          return `M ${cx},${cy} L ${x1},${y1} A ${r},${r} 0 ${largeArcFlag} 1 ${x2},${y2} Z`;
+        }
+
+        // Start angle for the first slice.
+        let cumulativeAngle = 0;
+        const slices = data.map((agency, index) => {
+          const sliceAngle = total ? (agency.regulation_count / total) * 2 * Math.PI : 0;
+          const startAngle = cumulativeAngle;
+          const endAngle = cumulativeAngle + sliceAngle;
+          cumulativeAngle += sliceAngle;
+          // Generate an SVG path for the slice.
+          const path = describeArc(150, 150, 100, startAngle, endAngle);
+          // Choose a color based on index.
+          const hue = index * (360 / data.length);
+          const fill = `hsl(${hue}, 70%, 50%)`;
+
+          return (
+            <path
+              key={index}
+              d={path}
+              fill={fill}
+              stroke="#fff"
+              strokeWidth="2"
+            >
+              <title>{agency.display_name}: {agency.regulation_count}</title>
+            </path>
+          );
+        });
+
+        return (
+          <div>
+            <h1 style={{ padding: '10px',  color: '#1f2937' }}>Regulations Distribution by Agency</h1>
+            <svg viewBox="0 0 300 300">
+              {slices}
+            </svg>
+          </div>
+        );
+      }
+
+      ReactDOM.render(<PieChart />, document.getElementById('root'));
+    </script>
+  </body>
+</html>
+
+

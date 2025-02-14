@@ -1,0 +1,1584 @@
+{
+    "agencies": [
+    {
+        "regulation_count": 2960,
+        "display_name": "Administrative Conference of the United States",
+        "short_name": "ACUS"
+    },
+    {
+        "regulation_count": 57,
+        "display_name": "Advisory Council on Historic Preservation",
+        "short_name": "ACHP"
+    },
+    {
+        "regulation_count": 23,
+        "display_name": "Special Inspector General for Afghanistan Reconstruction",
+        "short_name": "SIGAR"
+    },
+    {
+        "regulation_count": 257,
+        "display_name": "African Development Foundation",
+        "short_name": "USADF"
+    },
+    {
+        "regulation_count": 273,
+        "display_name": "United States Agency for Global Media",
+        "short_name": "USAGM"
+    },
+    {
+        "regulation_count": 960,
+        "display_name": "Department of Agriculture",
+        "short_name": "USDA"
+    },
+    {
+        "regulation_count": 8446,
+        "display_name": "Agricultural Marketing Service, Department of Agriculture",
+        "short_name": "AMS"
+    },
+    {
+        "regulation_count": 116,
+        "display_name": "Agricultural Research Service, Department of Agriculture",
+        "short_name": "ARS"
+    },
+    {
+        "regulation_count": 1800,
+        "display_name": "Animal and Plant Health Inspection Service, Department of Agriculture",
+        "short_name": "APHIS"
+    },
+    {
+        "regulation_count": 1188,
+        "display_name": "Commodity Credit Corporation, Department of Agriculture",
+        "short_name": "CCC"
+    },
+    {
+        "regulation_count": 11,
+        "display_name": "Economic Research Service, Department of Agriculture",
+        "short_name": "ERS"
+    },
+    {
+        "regulation_count": 1014,
+        "display_name": "Farm Service Agency, Department of Agriculture",
+        "short_name": "FSA"
+    },
+    {
+        "regulation_count": 228,
+        "display_name": "Federal Crop Insurance Corporation, Department of Agriculture",
+        "short_name": "FCIC"
+    },
+    {
+        "regulation_count": 613,
+        "display_name": "Food and Nutrition Service, Department of Agriculture",
+        "short_name": "FNS"
+    },
+    {
+        "regulation_count": 1085,
+        "display_name": "Food Safety and Inspection Service, Department of Agriculture",
+        "short_name": "FSIS"
+    },
+    {
+        "regulation_count": 105,
+        "display_name": "Foreign Agricultural Service, Department of Agriculture",
+        "short_name": "FAS"
+    },
+    {
+        "regulation_count": 706,
+        "display_name": "Forest Service, Department of Agriculture",
+        "short_name": "FS"
+    },
+    {
+        "regulation_count": 11,
+        "display_name": "National Agricultural Statistics Service, Department of Agriculture",
+        "short_name": "NASS"
+    },
+    {
+        "regulation_count": 353,
+        "display_name": "National Institute of Food and Agriculture, Department of Agriculture",
+        "short_name": "NIFA"
+    },
+    {
+        "regulation_count": 363,
+        "display_name": "Natural Resources Conservation Service, Department of Agriculture",
+        "short_name": "NRCS"
+    },
+    {
+        "regulation_count": 50,
+        "display_name": "Office of Advocacy and Outreach, Department of Agriculture",
+        "short_name": "OAO"
+    },
+    {
+        "regulation_count": 6,
+        "display_name": "Office of Chief Financial Officer, Department of Agriculture",
+        "short_name": null
+    },
+    {
+        "regulation_count": 37,
+        "display_name": "Office of Energy Policy and New Uses, Department of Agriculture",
+        "short_name": "OEPNU"
+    },
+    {
+        "regulation_count": 7,
+        "display_name": "Office of Environmental Quality, Department of Agriculture",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 8,
+        "display_name": "Office of Information Resources Management, Department of Agriculture",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 10,
+        "display_name": "Office of Inspector General, Department of Agriculture",
+        "short_name": "OIG USDA"
+    },
+    {
+        "regulation_count": 19,
+        "display_name": "Office of Operations, Department of Agriculture",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 22,
+        "display_name": "Office of Procurement and Property Management, Department of Agriculture",
+        "short_name": "OPPM"
+    },
+    {
+        "regulation_count": 916,
+        "display_name": "Office of Secretary of Agriculture, Department of Agriculture",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Office of Transportation, Department of Agriculture",
+        "short_name": null
+    },
+    {
+        "regulation_count": 1734,
+        "display_name": "Rural Business-Cooperative Service, Department of Agriculture",
+        "short_name": "RBS"
+    },
+    {
+        "regulation_count": 1600,
+        "display_name": "Rural Housing Service, Department of Agriculture",
+        "short_name": "RHS"
+    },
+    {
+        "regulation_count": 3153,
+        "display_name": "Rural Utilities Service, Department of Agriculture",
+        "short_name": "RUS"
+    },
+    {
+        "regulation_count": 10,
+        "display_name": "World Agricultural Outlook Board, Department of Agriculture",
+        "short_name": null
+    },
+    {
+        "regulation_count": 30,
+        "display_name": "Air Transportation System Stabilization",
+        "short_name": "ATSB"
+    },
+    {
+        "regulation_count": 50,
+        "display_name": "American Battle Monuments Commission",
+        "short_name": "ABMC"
+    },
+    {
+        "regulation_count": 1,
+        "display_name": "Appalachian Regional Commission",
+        "short_name": "ARC"
+    },
+    {
+        "regulation_count": 169,
+        "display_name": "Architectural and Transportation Barriers Compliance Board",
+        "short_name": "ATBCB"
+    },
+    {
+        "regulation_count": 19,
+        "display_name": "Arctic Research Commission",
+        "short_name": "ARCTIC"
+    },
+    {
+        "regulation_count": 21,
+        "display_name": "Armed Forces Retirement Home",
+        "short_name": "AFRH"
+    },
+    {
+        "regulation_count": 129,
+        "display_name": "Committee for Purchase From People Who Are Blind or Severely Disabled",
+        "short_name": "CPPBSD"
+    },
+    {
+        "regulation_count": 142,
+        "display_name": "Central Intelligence Agency",
+        "short_name": "CIA"
+    },
+    {
+        "regulation_count": 78,
+        "display_name": "Chemical Safety and Hazard Investigation Board",
+        "short_name": "CSB"
+    },
+    {
+        "regulation_count": 89,
+        "display_name": "Commission on Civil Rights",
+        "short_name": "CRC"
+    },
+    {
+        "regulation_count": 529,
+        "display_name": "Department of Commerce",
+        "short_name": "DOC"
+    },
+    {
+        "regulation_count": 85,
+        "display_name": "Bureau of Census, Department of Commerce",
+        "short_name": "USBC"
+    },
+    {
+        "regulation_count": 13,
+        "display_name": "Bureau of Economic Analysis, Department of Commerce",
+        "short_name": "EAB"
+    },
+    {
+        "regulation_count": 463,
+        "display_name": "Bureau of Industry and Security, Department of Commerce",
+        "short_name": "BIS"
+    },
+    {
+        "regulation_count": 131,
+        "display_name": "Economic Development Administration, Department of Commerce",
+        "short_name": "EDA"
+    },
+    {
+        "regulation_count": 46,
+        "display_name": "Foreign-Trade Zones Board, Department of Commerce",
+        "short_name": "FTZB"
+    },
+    {
+        "regulation_count": 234,
+        "display_name": "International Trade Administration, Department of Commerce",
+        "short_name": "ITA"
+    },
+    {
+        "regulation_count": 6,
+        "display_name": "Minority Business Development Agency, Department of Commerce",
+        "short_name": "MBDA"
+    },
+    {
+        "regulation_count": 341,
+        "display_name": "National Institute of Standards and Technology, Department of Commerce",
+        "short_name": "NIST"
+    },
+    {
+        "regulation_count": 1041,
+        "display_name": "National Oceanic and Atmospheric Administration, Department of Commerce",
+        "short_name": "NOAA"
+    },
+    {
+        "regulation_count": 702,
+        "display_name": "National Oceanic and Atmospheric Administration National Marine Fisheries Service, Department of Commerce",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 28,
+        "display_name": "National Technical Information Service, Department of Commerce",
+        "short_name": "NTIS"
+    },
+    {
+        "regulation_count": 36,
+        "display_name": "National Telecommunications and Information Administration, Department of Commerce",
+        "short_name": "NTIA"
+    },
+    {
+        "regulation_count": 429,
+        "display_name": "Office of Secretary of Commerce, Department of Commerce",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 57,
+        "display_name": "Office of Under-Secretary for Economic Affairs, Department of Commerce",
+        "short_name": "OUSEA"
+    },
+    {
+        "regulation_count": 929,
+        "display_name": "United States Patent and Trademark Office, Department of Commerce",
+        "short_name": "PTO"
+    },
+    {
+        "regulation_count": 1201,
+        "display_name": "Commodity Futures Trading Commission",
+        "short_name": "CFTC"
+    },
+    {
+        "regulation_count": 7,
+        "display_name": "Construction Industry Collective Bargaining Commission",
+        "short_name": null
+    },
+    {
+        "regulation_count": 684,
+        "display_name": "Consumer Financial Protection Bureau",
+        "short_name": "CFPB"
+    },
+    {
+        "regulation_count": 1173,
+        "display_name": "Consumer Product Safety Commission",
+        "short_name": "CPSC"
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Council of the Inspectors General on Integrity and Efficiency",
+        "short_name": "CIGIE"
+    },
+    {
+        "regulation_count": 91,
+        "display_name": "Court Services and Offender Supervision Agency for the District of Columbia",
+        "short_name": "CSOSA"
+    },
+    {
+        "regulation_count": 89,
+        "display_name": "Defense Nuclear Facilities Safety Board",
+        "short_name": "DNFSB"
+    },
+    {
+        "regulation_count": 3369,
+        "display_name": "Department of Defense",
+        "short_name": "DOD"
+    },
+    {
+        "regulation_count": 666,
+        "display_name": "Army Corps of Engineers, Department of Defense",
+        "short_name": "COE"
+    },
+    {
+        "regulation_count": 1928,
+        "display_name": "Defense Acquisition Regulations System, Department of Defense",
+        "short_name": "DARS"
+    },
+    {
+        "regulation_count": 26,
+        "display_name": "Defense Logistics Agency, Department of Defense",
+        "short_name": "DLA"
+    },
+    {
+        "regulation_count": 2,
+        "display_name": "Department of Navy Acquisition Regulations, Department of Defense",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 0,
+        "display_name": "National Geospatial-Intelligence Agency, Department of Defense",
+        "short_name": "NGA"
+    },
+    {
+        "regulation_count": 1454,
+        "display_name": "Office of the Secretary, Department of Defense",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 129,
+        "display_name": "Delaware River Basin Commission",
+        "short_name": "DRBC"
+    },
+    {
+        "regulation_count": 26,
+        "display_name": "Denali Commission",
+        "short_name": "DC"
+    },
+    {
+        "regulation_count": 169,
+        "display_name": "Office of Director of National Intelligence",
+        "short_name": "ODNI"
+    },
+    {
+        "regulation_count": 45,
+        "display_name": "National Council on Disability",
+        "short_name": "NCD"
+    },
+    {
+        "regulation_count": 1,
+        "display_name": "East-West Foreign Trade Board",
+        "short_name": null
+    },
+    {
+        "regulation_count": 28,
+        "display_name": "Department of Education",
+        "short_name": "ED"
+    },
+    {
+        "regulation_count": 162,
+        "display_name": "Department of Education Acquisition Regulation",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 221,
+        "display_name": "Office for Civil Rights, Department of Education",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 118,
+        "display_name": "Office of and Adult Education Technical Career, Department of Education",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 0,
+        "display_name": "Office of Bilingual Education and Minority Languages Affairs, Department of Education",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 303,
+        "display_name": "Office of Elementary and Secondary Education, Department of Education",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 1079,
+        "display_name": "Office of Postsecondary Education, Department of Education",
+        "short_name": null
+    },
+    {
+        "regulation_count": 676,
+        "display_name": "Office of Secretary of Education, Department of Education",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 827,
+        "display_name": "Office of Special Education and Rehabilitative Services, Department of Education",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 80,
+        "display_name": "Election Assistance Commission",
+        "short_name": "EAC"
+    },
+    {
+        "regulation_count": 28,
+        "display_name": "Emergency Oil and Gas Guaranteed Loan Board",
+        "short_name": null
+    },
+    {
+        "regulation_count": 29,
+        "display_name": "Emergency Steel Guarantee Loan Board",
+        "short_name": null
+    },
+    {
+        "regulation_count": 292,
+        "display_name": "National Commission for Employment Policy",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 5062,
+        "display_name": "Department of Energy",
+        "short_name": "DOE"
+    },
+    {
+        "regulation_count": 1360,
+        "display_name": "Federal Energy Regulatory Commission, Department of Energy",
+        "short_name": "FERC"
+    },
+    {
+        "regulation_count": 55,
+        "display_name": "Joint Board for the Enrollment of Actuaries",
+        "short_name": "JBEA"
+    },
+    {
+        "regulation_count": 24645,
+        "display_name": "Environmental Protection Agency",
+        "short_name": "EPA"
+    },
+    {
+        "regulation_count": 525,
+        "display_name": "Equal Employment Opportunity Commission",
+        "short_name": "EEOC"
+    },
+    {
+        "regulation_count": 13784,
+        "display_name": "Executive Office of the President",
+        "short_name": "EOP"
+    },
+    {
+        "regulation_count": 109,
+        "display_name": "Council on Environmental Quality, Executive Office of the President",
+        "short_name": "CEQ"
+    },
+    {
+        "regulation_count": 67,
+        "display_name": "National Security Council, Executive Office of the President",
+        "short_name": "NSC"
+    },
+    {
+        "regulation_count": 100,
+        "display_name": "Office of Science and Technology Policy, Executive Office of the President",
+        "short_name": "OSTP"
+    },
+    {
+        "regulation_count": 0,
+        "display_name": "Office of the Intellectual Property Enforcement Coordinator, Executive Office of the President",
+        "short_name": "IPEC"
+    },
+    {
+        "regulation_count": 112,
+        "display_name": "Export-Import Bank of the United States",
+        "short_name": "EIB/USEIB"
+    },
+    {
+        "regulation_count": 735,
+        "display_name": "Farm Credit Administration",
+        "short_name": "FCA"
+    },
+    {
+        "regulation_count": 87,
+        "display_name": "Farm Credit System Insurance Corporation",
+        "short_name": "FCSIC"
+    },
+    {
+        "regulation_count": 3399,
+        "display_name": "Federal Acquisition Regulatory Council",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 0,
+        "display_name": "Federal Acquisition Security Council",
+        "short_name": "FASC"
+    },
+    {
+        "regulation_count": 5307,
+        "display_name": "Federal Communications Commission",
+        "short_name": "FCC"
+    },
+    {
+        "regulation_count": 1200,
+        "display_name": "Federal Deposit Insurance Corporation",
+        "short_name": "FDIC"
+    },
+    {
+        "regulation_count": 525,
+        "display_name": "Federal Election Commission",
+        "short_name": "FEC"
+    },
+    {
+        "regulation_count": 60,
+        "display_name": "Federal Financial Institutions Examination Council",
+        "short_name": "FFIEC"
+    },
+    {
+        "regulation_count": 17,
+        "display_name": "Federal Financing Bank",
+        "short_name": null
+    },
+    {
+        "regulation_count": 795,
+        "display_name": "Federal Housing Finance Agency",
+        "short_name": "FHFA"
+    },
+    {
+        "regulation_count": 161,
+        "display_name": "Federal Labor Relations Authority",
+        "short_name": "FLRA"
+    },
+    {
+        "regulation_count": 307,
+        "display_name": "Federal Service Impasses Panel , Federal Labor Relations Authority",
+        "short_name": "FSIP"
+    },
+    {
+        "regulation_count": 465,
+        "display_name": "General Counsel of the Federal Labor Relations Authority",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 516,
+        "display_name": "Federal Maritime Commission",
+        "short_name": "FMC"
+    },
+    {
+        "regulation_count": 310,
+        "display_name": "Federal Mediation and Conciliation Service",
+        "short_name": "FMCS"
+    },
+    {
+        "regulation_count": 148,
+        "display_name": "Federal Mine Safety and Health Review Commission",
+        "short_name": "MSHFRC"
+    },
+    {
+        "regulation_count": 2,
+        "display_name": "Federal Permitting Improvement Steering Council",
+        "short_name": "FPISC"
+    },
+    {
+        "regulation_count": 0,
+        "display_name": "Federal Procurement Regulations System",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 3235,
+        "display_name": "Federal Property Management Regulations System",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 16320,
+        "display_name": "Administrative Committee of the Federal Register",
+        "short_name": "ACFR"
+    },
+    {
+        "regulation_count": 1525,
+        "display_name": "Federal Reserve System",
+        "short_name": "FRS"
+    },
+    {
+        "regulation_count": 9,
+        "display_name": "Board of Governors of the Federal Reserve System",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 1364,
+        "display_name": "Federal Retirement Thrift Investment Board",
+        "short_name": "FRTIB"
+    },
+    {
+        "regulation_count": 975,
+        "display_name": "Federal Trade Commission",
+        "short_name": "FTC"
+    },
+    {
+        "regulation_count": 1032,
+        "display_name": "Federal Travel Regulation System",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Financial Stability Oversight Council",
+        "short_name": "FSOC"
+    },
+    {
+        "regulation_count": 109,
+        "display_name": "Commission of Fine Arts",
+        "short_name": "CFA"
+    },
+    {
+        "regulation_count": 5,
+        "display_name": "First Responder Network Authority",
+        "short_name": "FirstNet"
+    },
+    {
+        "regulation_count": 66,
+        "display_name": "Foreign Service Grievance Board",
+        "short_name": "FSGB"
+    },
+    {
+        "regulation_count": 316,
+        "display_name": "Foreign Service Impasse Disputes Panel",
+        "short_name": "Disputes Panel"
+    },
+    {
+        "regulation_count": 316,
+        "display_name": "Foreign Service Labor Relations Board",
+        "short_name": "FSLRB"
+    },
+    {
+        "regulation_count": 1068,
+        "display_name": "General Services Administration",
+        "short_name": "GSA"
+    },
+    {
+        "regulation_count": 78,
+        "display_name": "Civilian Board of Contract Appeals, General Services Administration",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 41793,
+        "display_name": "Government Accountability Office",
+        "short_name": "GAO"
+    },
+    {
+        "regulation_count": 297,
+        "display_name": "Office of Government Ethics",
+        "short_name": "OGE"
+    },
+    {
+        "regulation_count": 41,
+        "display_name": "Gulf Coast Ecosystem Restoration Council",
+        "short_name": "Gulf Restoration Council"
+    },
+    {
+        "regulation_count": 64,
+        "display_name": "Harry S. Truman Scholarship Foundation",
+        "short_name": "HST"
+    },
+    {
+        "regulation_count": 3053,
+        "display_name": "Department of Health and Human Services",
+        "short_name": "HHS"
+    },
+    {
+        "regulation_count": 442,
+        "display_name": "Administration for Children and Families, Department of Health and Human Services",
+        "short_name": "ACF"
+    },
+    {
+        "regulation_count": 5073,
+        "display_name": "Centers for Medicare & Medicaid Services, Department of Health and Human Services",
+        "short_name": "CMS"
+    },
+    {
+        "regulation_count": 7839,
+        "display_name": "Food and Drug Administration, Department of Health and Human Services",
+        "short_name": "FDA"
+    },
+    {
+        "regulation_count": 2209,
+        "display_name": "Indian Health Service, Department of Health and Human Services",
+        "short_name": "IHS"
+    },
+    {
+        "regulation_count": 168,
+        "display_name": "Office of Administration for Children and Families Child Support Enforcement (Child Support Enforcement Program), Department of Health and Human Services",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 15,
+        "display_name": "Office of Administration for Children and Families Community Services, Department of Health and Human Services",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 407,
+        "display_name": "Office of Administration for Children and Families Family Assistance (Assistance Programs), Department of Health and Human Services",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 259,
+        "display_name": "Office of Administration for Children and Families Refugee Resettlement, Department of Health and Human Services",
+        "short_name": "ORR"
+    },
+    {
+        "regulation_count": 187,
+        "display_name": "Office of Inspector General-Health Care, Department of Health and Human Services",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 1982,
+        "display_name": "Public Health Service, Department of Health and Human Services",
+        "short_name": "PHS"
+    },
+    {
+        "regulation_count": 685,
+        "display_name": "Department of Homeland Security",
+        "short_name": "DHS"
+    },
+    {
+        "regulation_count": 11154,
+        "display_name": "Coast Guard, Department of Homeland Security",
+        "short_name": "USCG"
+    },
+    {
+        "regulation_count": 73,
+        "display_name": "Coast Guard (Great Lakes Pilotage), Department of Homeland Security",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 272,
+        "display_name": "Department of Homeland Security Acquisition Regulation",
+        "short_name": "HSAR"
+    },
+    {
+        "regulation_count": 931,
+        "display_name": "Federal Emergency Management Agency, Department of Homeland Security",
+        "short_name": "FEMA"
+    },
+    {
+        "regulation_count": 13,
+        "display_name": "Federal Law Enforcement Training Center, Department of Homeland Security",
+        "short_name": "FLETC"
+    },
+    {
+        "regulation_count": 120,
+        "display_name": "Human Resources Management System (Homeland Security - Office of Personnel Management), Department of Homeland Security",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 512,
+        "display_name": "Office of the Secretary of Homeland Security, Department of Homeland Security",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Secret Service, Department of Homeland Security",
+        "short_name": "USSS"
+    },
+    {
+        "regulation_count": 355,
+        "display_name": "Transportation Security Administration, Department of Homeland Security",
+        "short_name": "TSA"
+    },
+    {
+        "regulation_count": 2610,
+        "display_name": "U.S. Customs and Border Protection, Department of Homeland Security",
+        "short_name": "USCBP"
+    },
+    {
+        "regulation_count": 264,
+        "display_name": "Department of Housing and Urban Development",
+        "short_name": "HUD"
+    },
+    {
+        "regulation_count": 55,
+        "display_name": "Government National Mortgage Association, Department of Housing and Urban Development",
+        "short_name": "GinnieMae"
+    },
+    {
+        "regulation_count": 385,
+        "display_name": "Office of Assistant Secretary for Community Planning and Development, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 231,
+        "display_name": "Office of Assistant Secretary for Equal Opportunity, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 2006,
+        "display_name": "Office of Assistant Secretary for Housing - Federal Housing Commissioner, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 1083,
+        "display_name": "Office of Assistant Secretary for Public and Indian Housing, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 15,
+        "display_name": "Office of Federal Housing Enterprise Oversight, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 74,
+        "display_name": "Office of Housing and Multifamily Housing Assistance Restructuring, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 35,
+        "display_name": "Office of Inspector General, Housing and Urban Development, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 1054,
+        "display_name": "Office of Secretary, Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 45,
+        "display_name": "Office of Secretary (Housing Assistance Programs and Public and Indian Housing Programs), Department of Housing and Urban Development",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 29,
+        "display_name": "Office of Independent Counsel",
+        "short_name": null
+    },
+    {
+        "regulation_count": 19,
+        "display_name": "United States Institute of Peace",
+        "short_name": "USIP"
+    },
+    {
+        "regulation_count": 211,
+        "display_name": "Inter-American Foundation",
+        "short_name": "IAF"
+    },
+    {
+        "regulation_count": 1102,
+        "display_name": "Department of Interior",
+        "short_name": "DOI"
+    },
+    {
+        "regulation_count": 3687,
+        "display_name": "Bureau of Indian Affairs, Department of Interior",
+        "short_name": "BIA"
+    },
+    {
+        "regulation_count": 3651,
+        "display_name": "Bureau of Land Management, Department of Interior",
+        "short_name": "BLM"
+    },
+    {
+        "regulation_count": 709,
+        "display_name": "Bureau of Ocean Energy Management, Department of Interior",
+        "short_name": "BOEM"
+    },
+    {
+        "regulation_count": 288,
+        "display_name": "Bureau of Reclamation, Department of Interior",
+        "short_name": "BOR"
+    },
+    {
+        "regulation_count": 819,
+        "display_name": "Bureau of Safety and Environmental Enforcement, Department of Interior",
+        "short_name": "BSEE"
+    },
+    {
+        "regulation_count": 28,
+        "display_name": "Geological Survey, Department of Interior",
+        "short_name": "USGS"
+    },
+    {
+        "regulation_count": 65,
+        "display_name": "Indian Arts and Crafts Board, Department of Interior",
+        "short_name": "IACB"
+    },
+    {
+        "regulation_count": 308,
+        "display_name": "National Indian Gaming Commission, Department of Interior",
+        "short_name": "NIGC"
+    },
+    {
+        "regulation_count": 906,
+        "display_name": "National Park Service, Department of Interior",
+        "short_name": "NPS"
+    },
+    {
+        "regulation_count": 397,
+        "display_name": "Office of Indian Affairs Assistant Secretary, Department of Interior",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 460,
+        "display_name": "Office of Natural Resources Revenue, Department of Interior",
+        "short_name": "ONRR"
+    },
+    {
+        "regulation_count": 1423,
+        "display_name": "Office of Secretary of the Interior, Department of Interior",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 29,
+        "display_name": "Office of Special Trustee for American Indians, Department of Interior",
+        "short_name": "OST"
+    },
+    {
+        "regulation_count": 1474,
+        "display_name": "Office of Surface Mining Reclamation and Enforcement, Department of Interior",
+        "short_name": "OSM"
+    },
+    {
+        "regulation_count": 2323,
+        "display_name": "United States Fish and Wildlife Service, Department of Interior",
+        "short_name": "FWS"
+    },
+    {
+        "regulation_count": 65,
+        "display_name": "United States Section United States and Mexico International Boundary and Water Commission",
+        "short_name": "IBWC"
+    },
+    {
+        "regulation_count": 39,
+        "display_name": "United States International Development Cooperation Agency",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 120,
+        "display_name": "United States International Development Finance Corporation",
+        "short_name": "DFC"
+    },
+    {
+        "regulation_count": 1228,
+        "display_name": "Agency for International Development",
+        "short_name": "USAID"
+    },
+    {
+        "regulation_count": 30,
+        "display_name": "United States and Canada International Joint Commission",
+        "short_name": "IJC"
+    },
+    {
+        "regulation_count": 75,
+        "display_name": "International Organizations Employees Loyalty Board",
+        "short_name": null
+    },
+    {
+        "regulation_count": 386,
+        "display_name": "United States International Trade Commission",
+        "short_name": "ITC"
+    },
+    {
+        "regulation_count": 0,
+        "display_name": "Interstate Commerce Commission",
+        "short_name": "ICC"
+    },
+    {
+        "regulation_count": 57,
+        "display_name": "James Madison Memorial Fellowship Foundation",
+        "short_name": null
+    },
+    {
+        "regulation_count": 19,
+        "display_name": "Japan-United States Friendship Commission",
+        "short_name": "JUSFC"
+    },
+    {
+        "regulation_count": 2578,
+        "display_name": "Department of Justice",
+        "short_name": "DOJ"
+    },
+    {
+        "regulation_count": 421,
+        "display_name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice",
+        "short_name": "ATF"
+    },
+    {
+        "regulation_count": 473,
+        "display_name": "Bureau of Prisons, Department of Justice",
+        "short_name": "BOP"
+    },
+    {
+        "regulation_count": 465,
+        "display_name": "Drug Enforcement Administration, Department of Justice",
+        "short_name": "DEA"
+    },
+    {
+        "regulation_count": 329,
+        "display_name": "Executive Office for Immigration Review, Department of Justice",
+        "short_name": "EOIR"
+    },
+    {
+        "regulation_count": 70,
+        "display_name": "Federal Prison Industries, Department of Justice",
+        "short_name": "FPI"
+    },
+    {
+        "regulation_count": 94,
+        "display_name": "Foreign Claims Settlement Commission of the United States, Department of Justice",
+        "short_name": "FCSC"
+    },
+    {
+        "regulation_count": 13,
+        "display_name": "Offices of Independent Counsel, Department of Justice",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 205,
+        "display_name": "Department of Labor",
+        "short_name": "DOL"
+    },
+    {
+        "regulation_count": 64,
+        "display_name": "Benefits Review Board, Department of Labor",
+        "short_name": "BRB"
+    },
+    {
+        "regulation_count": 394,
+        "display_name": "Employee Benefits Security Administration, Department of Labor",
+        "short_name": "EBSA"
+    },
+    {
+        "regulation_count": 9,
+        "display_name": "Employees' Compensation Appeals Board, Department of Labor",
+        "short_name": "ECAB"
+    },
+    {
+        "regulation_count": 1795,
+        "display_name": "Employment and Training Administration, Department of Labor",
+        "short_name": "ETA"
+    },
+    {
+        "regulation_count": 2523,
+        "display_name": "Mine Safety and Health Administration, Department of Labor",
+        "short_name": "MSHA"
+    },
+    {
+        "regulation_count": 1475,
+        "display_name": "Occupational Safety and Health Administration, Department of Labor",
+        "short_name": "OSHA"
+    },
+    {
+        "regulation_count": 188,
+        "display_name": "Office of Assistant Secretary for Veterans' Employment and Training Service, Department of Labor",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 224,
+        "display_name": "Office of Federal Contract Compliance Programs, Department of Labor",
+        "short_name": "OFCCP"
+    },
+    {
+        "regulation_count": 389,
+        "display_name": "Office of Labor-Management Standards, Department of Labor",
+        "short_name": "LMSO"
+    },
+    {
+        "regulation_count": 1349,
+        "display_name": "Office of Secretary of Labor, Department of Labor",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 945,
+        "display_name": "Office of Workers' Compensation Programs, Department of Labor",
+        "short_name": "OWCP"
+    },
+    {
+        "regulation_count": 1874,
+        "display_name": "Wage and Hour Division, Department of Labor",
+        "short_name": "WHD"
+    },
+    {
+        "regulation_count": 327,
+        "display_name": "Legal Services Corporation",
+        "short_name": "LSC"
+    },
+    {
+        "regulation_count": 64,
+        "display_name": "National Commission on Libraries and Information Science",
+        "short_name": "NCLIS"
+    },
+    {
+        "regulation_count": 46,
+        "display_name": "Library of Congress",
+        "short_name": "LOC"
+    },
+    {
+        "regulation_count": 134,
+        "display_name": "Copyright Royalty Board, Library of Congress",
+        "short_name": "CRB"
+    },
+    {
+        "regulation_count": 136,
+        "display_name": "U.S. Copyright Office, Library of Congress",
+        "short_name": "COLC"
+    },
+    {
+        "regulation_count": 3393,
+        "display_name": "Office of Management and Budget",
+        "short_name": "OMB"
+    },
+    {
+        "regulation_count": 287,
+        "display_name": "Office of Federal Procurement Policy, Office of Management and Budget",
+        "short_name": "OFPP"
+    },
+    {
+        "regulation_count": 59,
+        "display_name": "Marine Mammal Commission",
+        "short_name": "MMC"
+    },
+    {
+        "regulation_count": 979,
+        "display_name": "Merit Systems Protection Board",
+        "short_name": "MSPB"
+    },
+    {
+        "regulation_count": 19,
+        "display_name": "Office for Micronesian Status Negotiations",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 8,
+        "display_name": "Military Compensation and Retirement Modernization Commission",
+        "short_name": "Military Compensation and Retirement Modernization Commission"
+    },
+    {
+        "regulation_count": 292,
+        "display_name": "National Commission on Military, National, and Public Service",
+        "short_name": "NCMNPS"
+    },
+    {
+        "regulation_count": 54,
+        "display_name": "Millennium Challenge Corporation",
+        "short_name": "MCC"
+    },
+    {
+        "regulation_count": 20,
+        "display_name": "Morris K. Udall and Stewart L. Udall Foundation",
+        "short_name": "Udall Foundation"
+    },
+    {
+        "regulation_count": 1171,
+        "display_name": "National Aeronautics and Space Administration",
+        "short_name": "NASA"
+    },
+    {
+        "regulation_count": 859,
+        "display_name": "Corporation for National and Community Service",
+        "short_name": "CORP/CNCS"
+    },
+    {
+        "regulation_count": 721,
+        "display_name": "National Archives and Records Administration",
+        "short_name": "NARA"
+    },
+    {
+        "regulation_count": 103,
+        "display_name": "Information Security Oversight Office, National Archives and Records Administration",
+        "short_name": "ISOO"
+    },
+    {
+        "regulation_count": 8024,
+        "display_name": "Office of Federal Register, National Archives and Records Administration",
+        "short_name": "OFR"
+    },
+    {
+        "regulation_count": 1244,
+        "display_name": "National Capital Planning Commission",
+        "short_name": "NCPC"
+    },
+    {
+        "regulation_count": 113,
+        "display_name": "National Counterintelligence Center",
+        "short_name": "NCTC"
+    },
+    {
+        "regulation_count": 698,
+        "display_name": "National Credit Union Administration",
+        "short_name": "NCUA"
+    },
+    {
+        "regulation_count": 24,
+        "display_name": "National Crime Prevention and Privacy Compact Council",
+        "short_name": "NCPPCC"
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Office of National Drug Control Policy",
+        "short_name": "ONDCP"
+    },
+    {
+        "regulation_count": 522,
+        "display_name": "National Foundation on the Arts and the Humanities",
+        "short_name": "ARTS"
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Institute of Museum and Library Services, National Foundation on the Arts and the Humanities",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 18,
+        "display_name": "National Endowment for the Arts, National Foundation on the Arts and the Humanities",
+        "short_name": "NEA"
+    },
+    {
+        "regulation_count": 18,
+        "display_name": "National Endowment for the Humanities, National Foundation on the Arts and the Humanities",
+        "short_name": null
+    },
+    {
+        "regulation_count": 272,
+        "display_name": "National Labor Relations Board",
+        "short_name": "NLRB"
+    },
+    {
+        "regulation_count": 62,
+        "display_name": "National Mediation Board",
+        "short_name": "NMB"
+    },
+    {
+        "regulation_count": 9,
+        "display_name": "National Railroad Adjustment Board",
+        "short_name": null
+    },
+    {
+        "regulation_count": 15,
+        "display_name": "National Railroad Passenger Corporation",
+        "short_name": "AMTRAK"
+    },
+    {
+        "regulation_count": 917,
+        "display_name": "National Science Foundation",
+        "short_name": "NSF"
+    },
+    {
+        "regulation_count": 277,
+        "display_name": "National Transportation Safety Board",
+        "short_name": "NTSB"
+    },
+    {
+        "regulation_count": 245,
+        "display_name": "Office of Navajo and Hopi Indian Relocation",
+        "short_name": "ONHIR"
+    },
+    {
+        "regulation_count": 4,
+        "display_name": "Neighborhood Reinvestment Corporation",
+        "short_name": "NEIGHBOR"
+    },
+    {
+        "regulation_count": 5,
+        "display_name": "Northeast Interstate Low-Level Radioactive Waste Commission",
+        "short_name": null
+    },
+    {
+        "regulation_count": 3221,
+        "display_name": "Nuclear Regulatory Commission",
+        "short_name": "NRC"
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Nuclear Waste Technical Review Board",
+        "short_name": "NWTRB"
+    },
+    {
+        "regulation_count": 145,
+        "display_name": "Occupational Safety and Health Review Commission",
+        "short_name": "OSHRC"
+    },
+    {
+        "regulation_count": 1,
+        "display_name": "Oklahoma City National Memorial Trust",
+        "short_name": null
+    },
+    {
+        "regulation_count": 153,
+        "display_name": "Peace Corps",
+        "short_name": "PC"
+    },
+    {
+        "regulation_count": 183,
+        "display_name": "Pennsylvania Avenue Development Corporation",
+        "short_name": null
+    },
+    {
+        "regulation_count": 580,
+        "display_name": "Pension Benefit Guaranty Corporation",
+        "short_name": "PBGC"
+    },
+    {
+        "regulation_count": 5049,
+        "display_name": "Office of Personnel Management",
+        "short_name": "OPM"
+    },
+    {
+        "regulation_count": 410,
+        "display_name": "Postal Regulatory Commission",
+        "short_name": "PRC"
+    },
+    {
+        "regulation_count": 726,
+        "display_name": "United States Postal Service",
+        "short_name": "USPS"
+    },
+    {
+        "regulation_count": 162,
+        "display_name": "Presidio Trust",
+        "short_name": "PT"
+    },
+    {
+        "regulation_count": 32,
+        "display_name": "Privacy and Civil Liberties Oversight Board",
+        "short_name": "PCLOB"
+    },
+    {
+        "regulation_count": 979,
+        "display_name": "Railroad Retirement Board",
+        "short_name": "RRB"
+    },
+    {
+        "regulation_count": 2281,
+        "display_name": "Securities and Exchange Commission",
+        "short_name": "SEC"
+    },
+    {
+        "regulation_count": 285,
+        "display_name": "Selective Service System",
+        "short_name": "SSS"
+    },
+    {
+        "regulation_count": 1677,
+        "display_name": "Small Business Administration",
+        "short_name": "SBA"
+    },
+    {
+        "regulation_count": 35,
+        "display_name": "Smithsonian Institution",
+        "short_name": null
+    },
+    {
+        "regulation_count": 2113,
+        "display_name": "Social Security Administration",
+        "short_name": "SSA"
+    },
+    {
+        "regulation_count": 64,
+        "display_name": "Office of Special Counsel",
+        "short_name": "OSC"
+    },
+    {
+        "regulation_count": 2744,
+        "display_name": "Department of State",
+        "short_name": "DOS"
+    },
+    {
+        "regulation_count": 725,
+        "display_name": "Surface Transportation Board",
+        "short_name": "STB"
+    },
+    {
+        "regulation_count": 70,
+        "display_name": "Susquehanna River Basin Commission",
+        "short_name": "SRBC"
+    },
+    {
+        "regulation_count": 367,
+        "display_name": "Tennessee Valley Authority",
+        "short_name": "TVA"
+    },
+    {
+        "regulation_count": 700,
+        "display_name": "Department of Transportation",
+        "short_name": "DOT"
+    },
+    {
+        "regulation_count": 4259,
+        "display_name": "Federal Aviation Administration, Department of Transportation",
+        "short_name": "FAA"
+    },
+    {
+        "regulation_count": 467,
+        "display_name": "Federal Aviation Administration Commercial Space Transportation, Department of Transportation",
+        "short_name": "AST"
+    },
+    {
+        "regulation_count": 1033,
+        "display_name": "Federal Highway Administration, Department of Transportation",
+        "short_name": "FHWA"
+    },
+    {
+        "regulation_count": 1083,
+        "display_name": "Federal Motor Carrier Safety Administration, Department of Transportation",
+        "short_name": "FMCSA"
+    },
+    {
+        "regulation_count": 2022,
+        "display_name": "Federal Railroad Administration, Department of Transportation",
+        "short_name": "FRA"
+    },
+    {
+        "regulation_count": 345,
+        "display_name": "Federal Transit Administration, Department of Transportation",
+        "short_name": "FTA"
+    },
+    {
+        "regulation_count": 131,
+        "display_name": "Great Lakes St. Lawrence Seaway Development Corporation, Department of Transportation",
+        "short_name": "SAINT"
+    },
+    {
+        "regulation_count": 800,
+        "display_name": "Maritime Administration, Department of Transportation",
+        "short_name": "MARAD"
+    },
+    {
+        "regulation_count": 1204,
+        "display_name": "National Highway Traffic Safety Administration, Department of Transportation",
+        "short_name": "NHTSA"
+    },
+    {
+        "regulation_count": 1025,
+        "display_name": "Office of Secretary (Aviation Proceedings), Department of Transportation",
+        "short_name": null
+    },
+    {
+        "regulation_count": 0,
+        "display_name": "Office of Secretary of Transportation, Department of Transportation",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 1914,
+        "display_name": "Pipeline and Hazardous Materials Safety Administration, Department of Transportation",
+        "short_name": "PHMSA"
+    },
+    {
+        "regulation_count": 460,
+        "display_name": "Department of Treasury",
+        "short_name": "TREAS"
+    },
+    {
+        "regulation_count": 3570,
+        "display_name": "Alcohol and Tobacco Tax and Trade Bureau, Department of Treasury",
+        "short_name": "TTB"
+    },
+    {
+        "regulation_count": 6,
+        "display_name": "Bureau of Engraving and Printing, Department of Treasury",
+        "short_name": "BEP"
+    },
+    {
+        "regulation_count": 1182,
+        "display_name": "Bureau of the Fiscal Service, Department of Treasury",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 166,
+        "display_name": "Community Development Financial Institutions Fund, Department of Treasury",
+        "short_name": "CDFI"
+    },
+    {
+        "regulation_count": 1117,
+        "display_name": "Comptroller of the Currency, Department of Treasury",
+        "short_name": "OCC"
+    },
+    {
+        "regulation_count": 290,
+        "display_name": "Financial Crimes Enforcement Network, Department of Treasury",
+        "short_name": "TD"
+    },
+    {
+        "regulation_count": 1182,
+        "display_name": "Fiscal Service, Department of Treasury",
+        "short_name": "FS"
+    },
+    {
+        "regulation_count": 6138,
+        "display_name": "Internal Revenue Service, Department of Treasury",
+        "short_name": "IRS"
+    },
+    {
+        "regulation_count": 95,
+        "display_name": "Monetary Offices, Department of Treasury",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 7,
+        "display_name": "Office of Financial Research, Department of Treasury",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 2711,
+        "display_name": "Office of Foreign Assets Control, Department of Treasury",
+        "short_name": "OFAC"
+    },
+    {
+        "regulation_count": 287,
+        "display_name": "Office of Investment Security, Department of Treasury",
+        "short_name": "IIO"
+    },
+    {
+        "regulation_count": 884,
+        "display_name": "Office of Secretary of the Treasury, Department of Treasury",
+        "short_name": ""
+    },
+    {
+        "regulation_count": 112,
+        "display_name": "Office of United States Trade Representative",
+        "short_name": "USTR"
+    },
+    {
+        "regulation_count": 90,
+        "display_name": "Utah Reclamation Mitigation and Conservation Commission",
+        "short_name": "URMCC"
+    },
+    {
+        "regulation_count": 3930,
+        "display_name": "Department of Veterans Affairs",
+        "short_name": "VA"
+    },
+    {
+        "regulation_count": 7,
+        "display_name": "Office of Vice President of the United States",
+        "short_name": null
+    },
+    {
+        "regulation_count": 134,
+        "display_name": "Water Resources Council",
+        "short_name": null
+    },
+    {
+        "regulation_count": 292,
+        "display_name": "President's Commission on White House Fellowships",
+        "short_name": ""
+    }
+    ]
+}
